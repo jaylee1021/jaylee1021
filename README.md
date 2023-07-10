@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, My name is Jay Lee.
 - 👀 I’m particularly interested in Software Engineering because it offers numerous exciting opportunities and challenges which I can apply my problem-solving skills and creativity. As a software engineer, I can tackle complex problems and design innovative solutions using my technical expertise. I find it fascinating to analyze a problem, break it down into smaller components, and build a software solution that addresses the specific needs of users or businesses.
 - 🌱 Currently, my main area of focus lies in enhancing my expertise in software design and algorithms. I am enthusiastic about honing my skills in these domains and eagerly look forward to putting my knowledge into practice by working on real-world projects.
