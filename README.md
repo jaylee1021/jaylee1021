@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,py,bootstrap,django,expressjs,nextjs,nodejs,mysql,postgresql,mongodb,html,css,vscode,git,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,js,py,bootstrap,django,expressjs,nextjs,nodejs,postgresql,mongodb,html,css,git,github&perline=7" />
     
   </a>
 </p>
