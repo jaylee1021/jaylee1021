@@ -2,8 +2,9 @@
 <h1 align='center'> About Me</h1>
 
 - 👋 Hi, My name is Jay Lee.
-- 👀 I’m particularly interested in Software Engineering because it offers numerous exciting opportunities and challenges which I can apply my problem-solving skills and creativity. As a software engineer, I can tackle complex problems and design innovative solutions using my technical expertise. I find it fascinating to analyze a problem, break it down into smaller components, and build a software solution that addresses the specific needs of users or businesses.
-- 🌱 Currently, my main area of focus lies in enhancing my expertise in software design and algorithms. I am enthusiastic about honing my skills in these domains and eagerly look forward to putting my knowledge into practice by working on real-world projects.
+- 👀 Embarking on a rewarding journey as a software engineer, I bring to the table a potent mix of front-end and back-end development skills coupled with a firm grasp of JavaScript and its libraries. My proficiency in Agile methodologies ensures that I deliver high-quality, timely results, contributing significantly to team goals.
+My expertise extends to enhancing speed, security, and scalability in backend systems while leveraging continuous integration tools such as GitHub for optimized workflows and code quality. An ardent believer in the power of collaboration, I thrive in team environments, effectively leading projects and influencing design implementations.
+A proactive problem solver at heart, I constantly analyze complex issues to devise effective and innovative solutions. Continually eager to learn and grow, I am committed to making a significant impact in the field of front-end and back-end engineering.
 - 📫 Please feel free to reach out to me at via [Linkedin](https://www.linkedin.com/in/jayjonglee/) or leejayjong@gmail.com, to collborate, connect, or if you believe I will be a good fit for your team.
 
 <!---
