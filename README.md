@@ -5,7 +5,7 @@
 - 👀 Embarking on a rewarding journey as a software engineer, I bring to the table a potent mix of front-end and back-end development skills coupled with a firm grasp of JavaScript and its libraries. My proficiency in Agile methodologies ensures that I deliver high-quality, timely results, contributing significantly to team goals.
 My expertise extends to enhancing speed, security, and scalability in backend systems while leveraging continuous integration tools such as GitHub for optimized workflows and code quality. An ardent believer in the power of collaboration, I thrive in team environments, effectively leading projects and influencing design implementations.
 A proactive problem solver at heart, I constantly analyze complex issues to devise effective and innovative solutions. Continually eager to learn and grow, I am committed to making a significant impact in the field of front-end and back-end engineering.
-- 📫 Please feel free to reach out to me at via [Linkedin](https://www.linkedin.com/in/jayjonglee/) or leejayjong@gmail.com, to collborate, connect, or if you believe I will be a good fit for your team.
+- 📫 Please feel free to reach out to me at via [Linkedin](https://www.linkedin.com/in/jayjonglee/), leejayjong@gmail.com, or visit my [Portfolio](https://www.jayjonglee.com), to collborate, connect, or if you believe I will be a good fit for your team.
 
 <!---
 jaylee1021/jaylee1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
