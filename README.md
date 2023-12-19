@@ -30,4 +30,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/jayjonglee/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
+<a href="https://www.jayjonglee.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</a>
 </div>
