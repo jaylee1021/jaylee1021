@@ -1,11 +1,29 @@
 
 <h1 align='center'> About Me</h1>
 
-- 👋 Hi, My name is Jay Lee.
-- 👀 Embarking on a rewarding journey as a software engineer, I bring to the table a potent mix of front-end and back-end development skills coupled with a firm grasp of JavaScript and its libraries. My proficiency in Agile methodologies ensures that I deliver high-quality, timely results, contributing significantly to team goals.
-My expertise extends to enhancing speed, security, and scalability in backend systems while leveraging continuous integration tools such as GitHub for optimized workflows and code quality. An ardent believer in the power of collaboration, I thrive in team environments, effectively leading projects and influencing design implementations.
-A proactive problem solver at heart, I constantly analyze complex issues to devise effective and innovative solutions. Continually eager to learn and grow, I am committed to making a significant impact in the field of front-end and back-end engineering.
-- 📫 Please feel free to reach out to me at via [Linkedin](https://www.linkedin.com/in/jayjonglee/), leejayjong@gmail.com, or visit my [Portfolio](https://www.jayjonglee.com), to collborate, connect, or if you believe I will be a good fit for your team.
+👋 Hi, I’m Jay Lee.
+
+I’m a Front-End Engineer with a strong product mindset and experience building secure, scalable, and user-focused interfaces. I currently work with React, TypeScript, Next.js, Node.js, and modern design systems to deliver fast, intuitive experiences at scale.
+
+Before becoming a software engineer, I spent 12 years in aviation—including 6 years in the military—which trained me to stay calm under pressure, lead effectively, and solve complex problems with precision.
+
+💡 What I’m great at:
+- Building clean, responsive UI with React, TypeScript, and modern CSS frameworks  
+- Translating design concepts into polished, production-ready components  
+- Improving accessibility, performance, and user experience  
+- Rapid prototyping and delivering features end-to-end  
+- Working in collaborative, high-ownership teams  
+
+🧩 Tech I use:
+**React • TypeScript • Next.js • Node.js • Express.js • HTML/CSS • Cloudscape Design System • Material UI • GitHub**
+
+🚀 I’m passionate about creating smooth, modern user experiences and continuously learning new tools—especially in AI and frontend innovation.
+
+📫 Feel free to connect with me:  
+- Email: **leejayjong@gmail.com**  
+- LinkedIn: *linkedin.com/in/jayjonglee* 
+
+Always open to collaborating on interesting projects or joining teams where I can create real user impact.
 
 <!---
 jaylee1021/jaylee1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
