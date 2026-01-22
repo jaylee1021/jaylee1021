@@ -21,7 +21,7 @@ Before becoming a software engineer, I spent 12 years in aviation—including 6 
 
 📫 Feel free to connect with me:  
 - Email: **leejayjong@gmail.com**  
-- *[LinkedIn](https://www.linkedin.com/in/jayjonglee)* 
+- **[LinkedIn](https://www.linkedin.com/in/jayjonglee)**
 
 Always open to collaborating on interesting projects or joining teams where I can create real user impact.
 
