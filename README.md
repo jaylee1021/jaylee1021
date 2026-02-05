@@ -15,13 +15,14 @@ Before becoming a software engineer, I spent 12 years in aviation—including 6 
 - Working in collaborative, high-ownership teams  
 
 🧩 Tech I use:
-**React • TypeScript • Next.js • Node.js • Express.js • HTML/CSS • Cloudscape Design System • Material UI • GitHub**
+**TypeScript • JavaScript • React • Next.js • Node.js • Express.js • HTML/CSS • Cloudscape Design System • Material UI • GitHub**
 
 🚀 I’m passionate about creating smooth, modern user experiences and continuously learning new tools—especially in AI and frontend innovation.
 
 📫 Feel free to connect with me:  
 - Email: **leejayjong@gmail.com**  
 - **[LinkedIn](https://www.linkedin.com/in/jayjonglee)**
+- **[Portfolio](https://wwww.jayjonglee.com)**
 
 Always open to collaborating on interesting projects or joining teams where I can create real user impact.
 
